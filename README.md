@@ -2,7 +2,9 @@
 
 A Netflix-style video streaming web application built using **HTML, CSS, JavaScript** and deployed on **AWS Cloud Infrastructure** using **S3 Static Hosting** and **CloudFront CDN**.
 
-This project demonstrates real-world cloud deployment architecture similar to production streaming platforms.
+
+## 📑 Project Documentation
+- 📄 [View Full Documentation](sdhub_documentation.pdf)
 
 ---
 
