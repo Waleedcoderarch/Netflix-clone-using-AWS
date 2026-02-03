@@ -135,11 +135,3 @@ Through this project I learned:
 - Cloud performance optimization  
 - Production-style frontend deployment  
 
-
-
-
-## ⭐ If You Like This Project
-
-Give this repository a ⭐ star and feel free to fork or contribute.
-
-Thank you for visiting!
