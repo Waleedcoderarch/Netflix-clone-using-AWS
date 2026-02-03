@@ -6,18 +6,6 @@ This project demonstrates real-world cloud deployment architecture similar to pr
 
 ---
 
-## 🌐 Live Project Links
-
-### 🚀 CloudFront CDN (Production Streaming URL)
-👉 http://d3q2kmo3yd7gbp.cloudfront.net  
-
-### 🗂 AWS S3 Static Website Hosting
-👉 http://netflix-clone-waleed.s3-website-us-east-1.amazonaws.com/  
-
-> CloudFront is used as the primary delivery layer for optimized video streaming.
-
----
-
 ## 📌 Project Overview
 
 This project replicates a Netflix-like user interface with cloud-based video delivery.
