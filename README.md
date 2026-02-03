@@ -135,14 +135,7 @@ Through this project I learned:
 - Cloud performance optimization  
 - Production-style frontend deployment  
 
----
 
-## 👨‍💻 About Me
-
-**Waleed Ahmed**  
-🎓 BCA Student  
-💻 Frontend & Cloud Enthusiast  
-🚀 Passionate about building real-world scalable web applications  
 
 
 ## ⭐ If You Like This Project
