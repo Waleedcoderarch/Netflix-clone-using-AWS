@@ -4,7 +4,7 @@ A Netflix-style video streaming web application built using **HTML, CSS, JavaScr
 
 
 ## 📑 Project Documentation
-- 📄 [View Full Documentation](sdhub_documentation.pdf)
+- 📄 [View Full Documentation](sdhub_documentation.pdf.pdf)
 
 ---
 
